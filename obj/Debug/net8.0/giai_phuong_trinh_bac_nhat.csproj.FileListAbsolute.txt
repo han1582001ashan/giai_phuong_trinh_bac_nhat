@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\bin\Debug\net8.0\giai_phuong_trinh_bac_nhat.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\bin\Debug\net8.0\giai_phuong_trinh_bac_nhat.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\bin\Debug\net8.0\giai_phuong_trinh_bac_nhat.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\bin\Debug\net8.0\giai_phuong_trinh_bac_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\bin\Debug\net8.0\giai_phuong_trinh_bac_nhat.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\refint\giai_phuong_trinh_bac_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\giai_phuong_trinh_bac_nhat.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\giai_phuong_trinh_bac_nhat\obj\Debug\net8.0\ref\giai_phuong_trinh_bac_nhat.dll

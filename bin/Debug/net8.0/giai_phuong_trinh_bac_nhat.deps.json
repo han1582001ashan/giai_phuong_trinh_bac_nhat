@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "giai_phuong_trinh_bac_nhat/1.0.0": {
+        "runtime": {
+          "giai_phuong_trinh_bac_nhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "giai_phuong_trinh_bac_nhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
